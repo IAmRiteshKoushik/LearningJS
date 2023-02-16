@@ -18,6 +18,5 @@ console.log("a -- =", a--); // This prints the incremented value of "a" and then
 console.log(a); // We can see that the value of "a" has been decremented to its original value
 
 // Tricky Cases - 02
-console.log("++b = ", ++b); // Increments "b" and then prints out the value
-console.log("--b = ", --b); // Decrements "b" and then prints out the value
-
+console.log("++b = ", ++b); // Increments "b" and then prints out the value of b
+console.log("--b = ", --b); // Decrements "b" and then prints out the value of b
