@@ -31,6 +31,6 @@ const item = {
     "Lovish" : 67,
     "Rohan" : undefined
 }
+
 // Accessing the JSON
 console.log(item["Lovish"])
-
