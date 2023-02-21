@@ -6,7 +6,7 @@ let b = 4;
 
 // Different Arithmetic Operators
 console.log("a + b =", a+b);
-console.log("a - b =", a-b);
+console.log("a - b =", a-b);R
 console.log("a / b =", a/b);
 console.log("a * b =", a*b);
 console.log("a ** b =", a**b);
