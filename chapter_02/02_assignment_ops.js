@@ -1,4 +1,5 @@
-// Assignment Operators
+// Assignment Operators ---
+
 assignment = 8;
 console.log(assignment);
 
@@ -14,4 +15,6 @@ console.log(assignment);
 assignment *= 3;
 console.log(assignment);
 
-// 
+// Exponenting by 3
+assignment **= 3
+console.log(assignment) 
