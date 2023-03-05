@@ -1,3 +1,4 @@
+// Splice Operator of an array
 // Example 01
 const numbers = [1, 2, 3, 4, 5]
 
@@ -19,3 +20,8 @@ numArr.splice(3, 4, 70)
 // Insert "70"
 console.log(numArr)
 
+
+// Reversing the elements of an array
+const digits = [2, 3, 4, 5, 6, 7, 8]
+digits.reverse()
+console.log(digits)
