@@ -1,7 +1,4 @@
 // More on callbacks
-// Order of proceedings
-// 
-
 
 let stocks = {
     Fruits: ["strawberry", "grapes", "banana", "apple"],
