@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iRock Page</title>
+    <script type="text/javascript">
+        function touchText(){
+            var userName = prompt("What is your name?", "Enter your name here.");
+
+            if (userName) {
+                alert("It is good to meet you," + userName + ".");
+                document.getElementById("text").content = "Thanks for responding!"
+            }
+        }
+    </script>
+</head>
+<body onload="alert('Hello, I am your pretty rock!');">
+    <h1 id="text", onclick="touchText()" style="cursor:
+    pointer;">Rock Image was supposed to be here. But I am too lazy to download one.</h1>
+</body>
+</html>
